@@ -14,7 +14,7 @@ on:
   pull_request:
     branches: [ "main" ]
 env:
-  DOCKER_IMAGE: springbootreactjs
+  DOCKER_IMAGE: boot_react
   DOCKER_TAG: 0.2
 
 jobs:
